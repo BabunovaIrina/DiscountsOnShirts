@@ -1,4 +1,4 @@
-public class Main {
+public class Shirts {
 
     public static void main(String[] args) {
 

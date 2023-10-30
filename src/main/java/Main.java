@@ -37,7 +37,7 @@ public class Main {
          * рубашка бесплатно = цена рубашки с учетом скидки
          */
         //final double countBonusShirts = amountMoneySaved / discountPricePerShirt;
-        final int countBonusShirts = (int)(amountMoneySaved/discountPricePerShirt);
+        final int countBonusShirts = (int) (amountMoneySaved / discountPricePerShirt);
         System.out.println("Количество рубашек, которые достались бесплатно - " + countBonusShirts + " шт");
     }
 }
